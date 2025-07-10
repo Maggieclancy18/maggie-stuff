@@ -1,2 +1,1 @@
-# maggie-stuff
-idc
+echo "Hello GitHub" >> text.txt
